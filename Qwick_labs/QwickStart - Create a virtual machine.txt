@@ -1,0 +1,19 @@
+There are two components associated with google cloud:
+
+Google cloud platform (GCP)      ------    G - Cloud
+IAS										   Google docs
+Platform as service						   Google 
+Adminstration computer systems
+
+
+
+Google cloud paltform (Shortly also known as GCP)
+
+
+
+ - IAS - Infrastructure as code - set of servers(Machines) capable of handling request and sending responses  - computation/ storage capabilities
+ 
+ 
+ Qwick labs:
+ Create and manage cloud resoruces  - Create first virtual machine, load balancing, kubernates engine
+ 
