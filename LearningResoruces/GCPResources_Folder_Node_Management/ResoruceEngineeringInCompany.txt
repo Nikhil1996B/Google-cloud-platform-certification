@@ -1,0 +1,4 @@
+------------------- Site Reliability Engineering
+
+== Resources specific to an IAM (identification and management group) are categorised as nodes.
+== Folders can be categorised under a company based on their standalone existence / shared resource nodes.

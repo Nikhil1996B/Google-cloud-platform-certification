@@ -1,0 +1,18 @@
+Accesing the cloud console in GCP
+Projects in the cloud console
+Navigation Menu and services
+Roles and permissions - 
+GCP projects are instances of google cloud services - which are powred with computational 
+serices, database resorces and API serives. Google also provides 
+cloud IAM(Identificaiton and Authentication mangement) to users. It enhances the policies
+associated to a perticular user by assigning a role and management authoriy to a user.
+
+Role/primitive
+Role/ enable
+Role/Adminstrator
+
+APIS and services
+Extendable API (application program interfaces) which are provided as a extendable use with
+application or project
+
+Terminating a GCP project in qwick labs
